@@ -21,3 +21,4 @@ edges = generate_edges(num_nodes, num_edges)
 
 for edge in edges:
     print(f'{{{edge[0]},{edge[1]}}}')
+fjkdajlkkjfaddfakldgjagjfkgsjfgskf
